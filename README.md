@@ -12,12 +12,12 @@ You do not need extensive programming knowledge before starting HTML and CSS.
 
 Helpful skills include:
 
-* Basic computer knowledge
-* Creating files and folders
-* Using a text editor
-* Using a web browser
-* Basic terminal usage
-* Git and GitHub (optional but recommended)
+- Basic computer knowledge
+- Creating files and folders
+- Using a text editor
+- Using a web browser
+- Basic terminal usage
+- Git and GitHub (optional but recommended)
 
 ---
 
@@ -31,10 +31,10 @@ Browser (Client) <----> Server
 
 Examples:
 
-* You enter a URL.
-* The browser sends a request.
-* The server sends back HTML, CSS, JavaScript, images, and other resources.
-* The browser renders the webpage.
+- You enter a URL.
+- The browser sends a request.
+- The server sends back HTML, CSS, JavaScript, images, and other resources.
+- The browser renders the webpage.
 
 ---
 
@@ -60,8 +60,8 @@ CSS:
 
 ```css
 button {
-    background: blue;
-    color: white;
+  background: blue;
+  color: white;
 }
 ```
 
@@ -69,8 +69,8 @@ JavaScript:
 
 ```javascript
 button.onclick = function () {
-    alert("Hello");
-}
+  alert("Hello");
+};
 ```
 
 ---
@@ -87,10 +87,10 @@ F12
 
 Important tabs:
 
-* Elements
-* Inspector
-* Console
-* Network
+- Elements
+- Inspector
+- Console
+- Network
 
 Developer tools are essential for debugging and understanding webpages.
 
@@ -100,14 +100,14 @@ Developer tools are essential for debugging and understanding webpages.
 
 Avoid learning these before mastering HTML and CSS:
 
-* React
-* Next.js
-* Tailwind CSS
-* Bootstrap
-* TypeScript
-* Node.js
-* PHP
-* Databases
+- React
+- Next.js
+- Tailwind CSS
+- Bootstrap
+- TypeScript
+- Node.js
+- PHP
+- Databases
 
 Focus only on:
 
@@ -131,26 +131,26 @@ React
 
 ## HTML Basics
 
-* HTML Document Structure
-* Headings
-* Paragraphs
-* Links
-* Images
-* Lists
+- HTML Document Structure
+- Headings
+- Paragraphs
+- Links
+- Images
+- Lists
 
 ## HTML Intermediate
 
-* Tables
-* Forms
-* Semantic HTML
-* Audio
-* Video
+- Tables
+- Forms
+- Semantic HTML
+- Audio
+- Video
 
 ## HTML Advanced
 
-* Accessibility
-* SEO Basics
-* Meta Tags
+- Accessibility
+- SEO Basics
+- Meta Tags
 
 ---
 
@@ -158,16 +158,16 @@ React
 
 ## CSS Basics
 
-* Selectors
-* Colors
-* Backgrounds
-* Fonts
+- Selectors
+- Colors
+- Backgrounds
+- Fonts
 
 ## Layout Fundamentals
 
-* Box Model
-* Display
-* Position
+- Box Model
+- Display
+- Position
 
 ## Modern Layout Systems
 
@@ -175,37 +175,37 @@ React
 
 Learn:
 
-* Flex Container
-* Flex Items
-* justify-content
-* align-items
-* flex-direction
-* flex-wrap
+- Flex Container
+- Flex Items
+- justify-content
+- align-items
+- flex-direction
+- flex-wrap
 
 ### CSS Grid
 
 Learn:
 
-* Grid Container
-* Grid Items
-* Columns
-* Rows
-* Areas
+- Grid Container
+- Grid Items
+- Columns
+- Rows
+- Areas
 
 ## Responsive Design
 
 Learn:
 
-* Mobile First Design
-* Media Queries
-* Responsive Images
+- Mobile First Design
+- Media Queries
+- Responsive Images
 
 ## Advanced CSS
 
-* Animations
-* Transitions
-* CSS Variables
-* Transformations
+- Animations
+- Transitions
+- CSS Variables
+- Transformations
 
 ---
 
@@ -215,42 +215,42 @@ Learn:
 
 Skills:
 
-* Headings
-* Paragraphs
-* Images
-* Links
+- Headings
+- Paragraphs
+- Images
+- Links
 
 ## Project 2: Restaurant Website
 
 Skills:
 
-* Layout
-* Images
-* Navigation
+- Layout
+- Images
+- Navigation
 
 ## Project 3: Blog Layout
 
 Skills:
 
-* Articles
-* Sections
-* Responsive Design
+- Articles
+- Sections
+- Responsive Design
 
 ## Project 4: Landing Page
 
 Skills:
 
-* Flexbox
-* Grid
-* Responsive Layouts
+- Flexbox
+- Grid
+- Responsive Layouts
 
 ## Project 5: Portfolio Website
 
 Skills:
 
-* Complete HTML
-* Complete CSS
-* Responsive Design
+- Complete HTML
+- Complete CSS
+- Responsive Design
 
 ## Project 6: Homepage Clone
 
@@ -295,29 +295,29 @@ html-css-learning/
 
 Learn HTML:
 
-* Structure
-* Text
-* Links
-* Images
-* Lists
-* Tables
-* Forms
+- Structure
+- Text
+- Links
+- Images
+- Lists
+- Tables
+- Forms
 
 ## Week 2
 
 Learn CSS:
 
-* Selectors
-* Colors
-* Fonts
-* Box Model
+- Selectors
+- Colors
+- Fonts
+- Box Model
 
 ## Week 3
 
 Learn Layout:
 
-* Flexbox
-* Grid
+- Flexbox
+- Grid
 
 ## Week 4
 
@@ -342,11 +342,16 @@ Avoid spending too much time watching tutorials without practicing.
 
 After completing HTML and CSS, you should be able to:
 
-* Build complete static websites
-* Create responsive layouts
-* Use Flexbox and Grid confidently
-* Publish projects on GitHub
-* Start learning JavaScript
+- Build complete static websites
+- Create responsive layouts
+- Use Flexbox and Grid confidently
+- Publish projects on GitHub
+- Start learning JavaScript
 
 Good luck on your web development journey! 🚀
 
+## 👨‍💻 Author
+
+Sohayb Ech-chahid
+
+GitHub: https://github.com/SohaybEch-chahid

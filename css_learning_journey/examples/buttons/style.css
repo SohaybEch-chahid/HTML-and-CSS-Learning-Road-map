@@ -1,0 +1,35 @@
+/* Basic button reset */
+button {
+  border: none;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+/* Primary Button */
+.btn-primary {
+  background: #2563eb;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 6px;
+  transition: 0.3s ease;
+}
+
+.btn-primary:hover {
+  background: #1d4ed8;
+  transform: translateY(-2px);
+}
+
+/* Secondary Button */
+.btn-secondary {
+  background: transparent;
+  border: 2px solid #2563eb;
+  color: #2563eb;
+  padding: 10px 20px;
+  border-radius: 6px;
+  transition: 0.3s ease;
+}
+
+.btn-secondary:hover {
+  background: #2563eb;
+  color: white;
+}

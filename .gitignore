@@ -1,0 +1,30 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Linux temporary files
+*~
+
+# VS Code
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# Vim/Neovim
+*.swp
+*.swo
+Session.vim
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# Node.js (if you add it later)
+node_modules/
+
+# Build folders
+dist/
+build/

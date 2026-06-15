@@ -2,6 +2,10 @@
 
 A complete HTML learning repository documenting my journey from beginner to advanced HTML.
 
+# Understand What HTML
+
+HTML = HyperText Markup Language
+
 ## Topics Covered
 
 - Document Structure
@@ -32,6 +36,8 @@ A complete HTML learning repository documenting my journey from beginner to adva
 - Build real-world projects
 - Prepare for CSS and JavaScript
 
-## Author
+## 👨‍💻 Author
 
-Sohayb Chahid
+Sohayb Ech-chahid
+
+GitHub: https://github.com/SohaybEch-chahid

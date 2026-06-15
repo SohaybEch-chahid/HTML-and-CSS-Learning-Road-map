@@ -1,0 +1,24 @@
+# Auto detect text files
+* text=auto
+
+# HTML files
+*.html text
+
+# CSS files
+*.css text
+
+# Markdown files
+*.md text
+
+# Images
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+
+# Audio
+*.mp3 binary
+
+# Video
+*.mp4 binary
